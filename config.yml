@@ -3,10 +3,11 @@
 namespaces:
 - o
 - en
+- de
 - .us
 - github: .
   name: my
 # defaultKeyword: g 
-language: en
-country: us
+language: de
+country: de
 defaultKeyword: g
